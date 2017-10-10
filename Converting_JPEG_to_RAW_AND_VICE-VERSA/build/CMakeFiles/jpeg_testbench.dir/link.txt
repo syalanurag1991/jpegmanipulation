@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/jpeg_testbench.dir/home/anuragsyal/Downloads/JPEG/Problem3_PartB/src/main.c.o  -o jpeg_testbench  -L/home/anuragsyal/Downloads/JPEG/Problem3_PartB/build/../lib -rdynamic -ljpeg -lm -Wl,-rpath,/home/anuragsyal/Downloads/JPEG/Problem3_PartB/build/../lib 

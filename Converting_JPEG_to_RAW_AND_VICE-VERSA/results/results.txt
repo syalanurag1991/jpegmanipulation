@@ -1,0 +1,100 @@
+
+Please make sure that there is a folder named 'results' in the directory
+
+Processing input RAW file: ../src/clock.raw
+
+
+
+An output JPEG file,  ../results/outputJPEGimage_100.jpg, was written with quality: 100%
+JPEG File info: 
+	Image width and height: 256 x 256
+	Color components per pixel: 1
+	Color space: 1
+RAW file was written: ../results/outputRAWimage_100.raw
+JPEG Analysis info:
+	Size: 36900 bytes
+	Size: 65536 bytes
+	Compression Ratio: 1.78
+	Savings: 43.70(%)
+	MSE: 0.09
+	PSNR: 58.49
+
+
+
+An output JPEG file,  ../results/outputJPEGimage_60.jpg, was written with quality: 60%
+JPEG File info: 
+	Image width and height: 256 x 256
+	Color components per pixel: 1
+	Color space: 1
+RAW file was written: ../results/outputRAWimage_60.raw
+JPEG Analysis info:
+	Size: 6215 bytes
+	Size: 65536 bytes
+	Compression Ratio: 10.54
+	Savings: 90.52(%)
+	MSE: 16.98
+	PSNR: 35.83
+
+
+
+An output JPEG file,  ../results/outputJPEGimage_40.jpg, was written with quality: 40%
+JPEG File info: 
+	Image width and height: 256 x 256
+	Color components per pixel: 1
+	Color space: 1
+RAW file was written: ../results/outputRAWimage_40.raw
+JPEG Analysis info:
+	Size: 4858 bytes
+	Size: 65536 bytes
+	Compression Ratio: 13.49
+	Savings: 92.59(%)
+	MSE: 25.56
+	PSNR: 34.06
+
+
+
+An output JPEG file,  ../results/outputJPEGimage_20.jpg, was written with quality: 20%
+JPEG File info: 
+	Image width and height: 256 x 256
+	Color components per pixel: 1
+	Color space: 1
+RAW file was written: ../results/outputRAWimage_20.raw
+JPEG Analysis info:
+	Size: 3406 bytes
+	Size: 65536 bytes
+	Compression Ratio: 19.24
+	Savings: 94.80(%)
+	MSE: 45.39
+	PSNR: 31.56
+
+
+
+An output JPEG file,  ../results/outputJPEGimage_10.jpg, was written with quality: 10%
+JPEG File info: 
+	Image width and height: 256 x 256
+	Color components per pixel: 1
+	Color space: 1
+RAW file was written: ../results/outputRAWimage_10.raw
+JPEG Analysis info:
+	Size: 2476 bytes
+	Size: 65536 bytes
+	Compression Ratio: 26.47
+	Savings: 96.22(%)
+	MSE: 86.36
+	PSNR: 28.77
+
+
+
+An output JPEG file,  ../results/outputJPEGimage_1.jpg, was written with quality: 1%
+JPEG File info: 
+	Image width and height: 256 x 256
+	Color components per pixel: 1
+	Color space: 1
+RAW file was written: ../results/outputRAWimage_1.raw
+JPEG Analysis info:
+	Size: 1476 bytes
+	Size: 65536 bytes
+	Compression Ratio: 44.40
+	Savings: 97.75(%)
+	MSE: 287.34
+	PSNR: 23.55

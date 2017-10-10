@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/jconfig.h
+
+../inc/jerror.h
+
+../inc/jmorecfg.h
+
+../inc/jpeglib.h
+jconfig.h
+../inc/jconfig.h
+jmorecfg.h
+../inc/jmorecfg.h
+jpegint.h
+../inc/jpegint.h
+jerror.h
+../inc/jerror.h
+
+/home/anuragsyal/Downloads/JPEG/Problem3_PartB/src/main.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+math.h
+-
+jerror.h
+-
+jpeglib.h
+-
+setjmp.h
+-
+
